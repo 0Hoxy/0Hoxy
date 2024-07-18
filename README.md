@@ -16,7 +16,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-green.svg?style=for-the-badge&logo=springboot&logoColor=61DAFB" />&nbsp
 </div>
 
 <br>
