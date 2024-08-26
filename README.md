@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEO%20YOUNG%20HO&desc=Positive%20Developer!&descSize=25&fontAlignY=30&descAlignY=45&fontSize=50&rotate=19&fontAlign=70&descAlign=79.3)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Hoxy&theme=default&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0Hoxy&theme=default&show_icons=true" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="Top Langs" />
+</div>
+
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
