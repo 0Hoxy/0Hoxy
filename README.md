@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=220&section=header&text=Evan%20Seo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Busan%2C%20KR&descAlignY=55&descSize=18&descColor=94A3B8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=220&section=header&text=Evan%20Seo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Seoul%2C%20KR&descAlignY=55&descSize=18&descColor=94A3B8" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -15,17 +15,17 @@
 
 ```yaml
 name: "Evan Seo (서영호)"
-located_in: "Busan, South Korea 🇰🇷"
-current_role: "Backend Developer @ OceanStar Agency"
+located_in: "Seoul, South Korea 🇰🇷"
+current_role: "Freelance Backend Developer"
+working_on: "Automating Casting Workflows @ OceanStar Agency"
 focus: "Full-Stack Development & Cloud Architecture"
 blog: "https://velog.io/@0hoxy"
 ```
 
-- 🔭 현재 **Spring Boot + React** 기반 풀스택 서비스를 개발하고 있습니다
+- 🔭 현재 **오션스타에이전시**의 캐스팅 디렉터 업무 자동화를 개발하고 있습니다
 - 🏗️ **AWS 클라우드 아키텍처** 설계 및 인프라 운영 경험
 - ⚡ **QueryDSL**, **JPA** 기반 성능 최적화에 관심이 많습니다
 - 🌱 **MSA**, **시스템 디자인**, **DevOps** 를 꾸준히 공부하고 있습니다
-- 🤝 부산 **모각코** 개발자 커뮤니티에서 활동 중입니다
 
 <br />
 
@@ -68,21 +68,6 @@ blog: "https://velog.io/@0hoxy"
     <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,notion,figma&theme=dark" alt="Tools" />
   </a>
 </p>
-
-</div>
-
-<br />
-
-<!-- Projects -->
-## 🚀 Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:-------:|:-----------:|:-----:|
-| **FocusDash** | 모델 에이전시 종합 관리 플랫폼 <br/> 캐스팅, 컴카드 자동생성, 알림톡 연동 | `Spring Boot` `React` `AWS` `MySQL` |
-| **Dayer** | 프리랜서 워크포스 인텔리전스 SaaS <br/> 자동 태스크 매핑 & 통계 분석 | `Tauri` `React` `Spring Boot` |
-| **상담센터 시스템** | 예원예술대학교 학생상담센터 운영 전산화 <br/> 예약·상담일지·만족도 조사 | `React` `Supabase` `Kakao Alimtalk` |
 
 </div>
 
