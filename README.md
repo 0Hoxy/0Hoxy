@@ -1,79 +1,150 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SEO%20YOUNG%20HO&desc=Positive%20Developer!&descSize=25&fontAlignY=30&descAlignY=45&fontSize=50&rotate=19&fontAlign=70&descAlign=79.3" alt="header" />
+
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=220&section=header&text=Evan%20Seo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Busan%2C%20KR&descAlignY=55&descSize=18&descColor=94A3B8" width="100%" />
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=94A3B8&center=true&vCenter=true&random=false&width=500&lines=Spring+Boot+%26+React+Developer;Building+Scalable+Backend+Systems;AWS+Cloud+Architecture;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
+
 </div>
 
----
-<h3 align="center"> ✒ 블로그</h3>
+<!-- About Me -->
+## 🧑‍💻 About Me
+
+```yaml
+name: "Evan Seo (서영호)"
+located_in: "Busan, South Korea 🇰🇷"
+current_role: "Backend Developer @ OceanStar Agency"
+focus: "Full-Stack Development & Cloud Architecture"
+blog: "https://velog.io/@0hoxy"
+```
+
+- 🔭 현재 **Spring Boot + React** 기반 풀스택 서비스를 개발하고 있습니다
+- 🏗️ **AWS 클라우드 아키텍처** 설계 및 인프라 운영 경험
+- ⚡ **QueryDSL**, **JPA** 기반 성능 최적화에 관심이 많습니다
+- 🌱 **MSA**, **시스템 디자인**, **DevOps** 를 꾸준히 공부하고 있습니다
+- 🤝 부산 **모각코** 개발자 커뮤니티에서 활동 중입니다
+
+<br />
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+#### Backend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" alt="Backend Skills" />
+  </a>
+</p>
+
+#### Frontend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css&theme=dark" alt="Frontend Skills" />
+  </a>
+</p>
+
+#### Database & Cache
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase&theme=dark" alt="Database Skills" />
+  </a>
+</p>
+
+#### Infrastructure & DevOps
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,githubactions&theme=dark" alt="Infra Skills" />
+  </a>
+</p>
+
+#### Tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,notion,figma&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+</div>
+
+<br />
+
+<!-- Projects -->
+## 🚀 Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:-------:|:-----------:|:-----:|
+| **FocusDash** | 모델 에이전시 종합 관리 플랫폼 <br/> 캐스팅, 컴카드 자동생성, 알림톡 연동 | `Spring Boot` `React` `AWS` `MySQL` |
+| **Dayer** | 프리랜서 워크포스 인텔리전스 SaaS <br/> 자동 태스크 매핑 & 통계 분석 | `Tauri` `React` `Spring Boot` |
+| **상담센터 시스템** | 예원예술대학교 학생상담센터 운영 전산화 <br/> 예약·상담일지·만족도 조사 | `React` `Supabase` `Kakao Alimtalk` |
+
+</div>
+
+<br />
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0Hoxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Hoxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0Hoxy&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Hoxy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF" width="95%" alt="Activity Graph" />
+</div>
+
+<br />
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Hoxy/0Hoxy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Hoxy/0Hoxy/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/0Hoxy/0Hoxy/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br />
+
+<!-- Contact -->
+## 📬 Contact
+
 <div align="center">
   <a href="https://velog.io/@0hoxy">
-    <img src="https://velog-readme-stats.vercel.app/api?name=0hoxy" alt="Velog's GitHub stats" />
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+  </a>&nbsp;
+  <a href="mailto:syh961214@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
----
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<br />
+
+<!-- Visitor Counter -->
 <div align="center">
- <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/mysql-6DB33F.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://komarev.com/ghpvc/?username=0Hoxy&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/badge/MyBatis-6DB33F.svg?style=for-the-badge&logo=MyBatis&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/ORACLE-6DB33F.svg?style=for-the-badge&logo=ORACLE&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-</div>
+<br />
 
-<div align="center">
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-<img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
-
----
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/aws-1572B6.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/ec2-1572B6.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/docker-1572B6.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/redis-1572B6.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
-</div>
-
----
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-
-<div align="center">
-<img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-<img src="https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp
- <img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> &nbsp
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Hoxy&theme=default&show_icons=true" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="Top Langs" />
-</div>
-
----
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@0hoxy">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="syh961214@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-<a href="">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-</div>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer" width="100%" />
