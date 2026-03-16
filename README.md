@@ -11,27 +11,21 @@
 </div>
 
 <!-- About Me -->
-<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me </h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me </h2>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-<p>
-  <em>Freelance Backend Developer based in <b>Seoul, South Korea</b> 🇰🇷</em>
-</p>
+<table align="center">
+  <tr>
+    <td width="55%">
 
 ```javascript
 const evan = {
+  name: "Evan Seo (서영호)",
+  location: "Seoul, South Korea 🇰🇷",
   role: "Freelance Backend Developer",
   workingOn: "캐스팅 워크플로우 자동화 @ OceanStar Agency",
-  techStack: {
-    backend:  ["Java", "Spring Boot", "Python", "FastAPI"],
-    frontend: ["React", "TypeScript"],
-    database: ["MySQL", "PostgreSQL", "Redis"],
-    cloud:    ["AWS (EC2, S3, CloudFront, Lambda, SQS)"],
-    devOps:   ["Docker", "Nginx", "GitHub Actions"],
-  },
-  currentlyLearning: ["MSA", "System Design", "DevOps"],
-  funFact: "QueryDSL 성능 최적화를 할 때 가장 행복합니다 ⚡",
+  stack: ["Spring Boot", "React", "AWS", "MySQL"],
+  learning: ["MSA", "System Design", "DevOps"],
+  funFact: "QueryDSL 최적화할 때 가장 행복합니다 ⚡",
 };
 ```
 
@@ -41,9 +35,16 @@ const evan = {
   <img src="https://img.shields.io/badge/Blog-velog.io/@0hoxy-20C997?style=flat-square" />
 </p>
 
+  </td>
+    <td width="90%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+    </td>
+  </tr>
+</table>
+
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0Hoxy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0Hoxy&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=20" width="90%" alt="GitHub Trophies" />
 </div>
 
 <br />
@@ -70,7 +71,7 @@ const evan = {
 #### Database & Cache
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase&theme=dark" alt="Database Skills" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" alt="Database Skills" />
   </a>
 </p>
 
@@ -85,6 +86,13 @@ const evan = {
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,notion,figma&theme=dark" alt="Tools" />
+  </a>
+</p>
+
+#### Studying
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Studying" />
   </a>
 </p>
 
