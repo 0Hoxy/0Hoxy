@@ -11,21 +11,40 @@
 </div>
 
 <!-- About Me -->
-## 🧑‍💻 About Me
+<h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me </h2>
 
-```yaml
-name: "Evan Seo (서영호)"
-located_in: "Seoul, South Korea 🇰🇷"
-current_role: "Freelance Backend Developer"
-working_on: "Automating Casting Workflows @ OceanStar Agency"
-focus: "Full-Stack Development & Cloud Architecture"
-blog: "https://velog.io/@0hoxy"
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+<p>
+  <em>Freelance Backend Developer based in <b>Seoul, South Korea</b> 🇰🇷</em>
+</p>
+
+```javascript
+const evan = {
+  role: "Freelance Backend Developer",
+  workingOn: "캐스팅 워크플로우 자동화 @ OceanStar Agency",
+  techStack: {
+    backend:  ["Java", "Spring Boot", "Python", "FastAPI"],
+    frontend: ["React", "TypeScript"],
+    database: ["MySQL", "PostgreSQL", "Redis"],
+    cloud:    ["AWS (EC2, S3, CloudFront, Lambda, SQS)"],
+    devOps:   ["Docker", "Nginx", "GitHub Actions"],
+  },
+  currentlyLearning: ["MSA", "System Design", "DevOps"],
+  funFact: "QueryDSL 성능 최적화를 할 때 가장 행복합니다 ⚡",
+};
 ```
 
-- 🔭 현재 **오션스타에이전시**의 캐스팅 디렉터 업무 자동화를 개발하고 있습니다
-- 🏗️ **AWS 클라우드 아키텍처** 설계 및 인프라 운영 경험
-- ⚡ **QueryDSL**, **JPA** 기반 성능 최적화에 관심이 많습니다
-- 🌱 **MSA**, **시스템 디자인**, **DevOps** 를 꾸준히 공부하고 있습니다
+<p>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lives-Seoul,%20KR-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Blog-velog.io/@0hoxy-20C997?style=flat-square" />
+</p>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0Hoxy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="GitHub Trophies" />
+</div>
 
 <br />
 
