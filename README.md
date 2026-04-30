@@ -21,11 +21,11 @@
 const evan = {
   name: "Evan Seo (서영호)",
   location: "Seoul, South Korea 🇰🇷",
-  role: "Freelance Backend Developer",
+  role: "Product Engineer",
   workingOn: "캐스팅 워크플로우 자동화 @ OceanStar Agency",
   stack: ["Spring Boot", "React", "AWS", "MySQL"],
   learning: ["MSA", "System Design", "DevOps"],
-  funFact: "QueryDSL 최적화할 때 가장 행복합니다 ⚡",
+  funFact: "내가 만든 서비스를 직원들이 만족하며 사용할 때 가장 행복합니다 ⚡",
 };
 ```
 
